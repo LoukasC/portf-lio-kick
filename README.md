@@ -2,7 +2,7 @@
 
 Link para o site: lucas-silva.soukick.com.br
 
-Link para arquivo de exportação: https://drive.google.com/file/d/1xGlneuF2iXyMNe0WWRGJswRwrtn_J_Ya/view?usp=sharing
+Link para arquivo de exportação: https://drive.google.com/file/d/1IPo4vMqYgW0eMqEZCQkORXsqeDseCzMY/view?usp=sharing
 
 Parte 1: Cabeçalho da página contendo os tópicos, detalhes sobre mim e as redes sociais.
 ![image](https://user-images.githubusercontent.com/92893157/161455945-b8aea1e2-9af5-433f-b4d6-8795c545370b.png)
